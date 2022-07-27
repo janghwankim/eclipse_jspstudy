@@ -14,5 +14,6 @@
     out.println("<h1>"+str+"</h1>");//웹에 출력(서버에서 브라우저로 전송되어서 출력) backend
     //document.write("str=>"+str);//웹에 출력(브라우저에서 출력) frontend
  %>
+ <%=str %>
 </body>
 </html>
